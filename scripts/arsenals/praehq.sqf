@@ -13,7 +13,7 @@
 
 //BACKPACKS
 "TFAR_anprc155_coyote",
-"TFAR_anprc148jem",
+"TFAR_anprc152",
 "CUP_B_M252_Gun_Bag",
 "CUP_B_M252_Bipod_Bag",
 "MineDetector",

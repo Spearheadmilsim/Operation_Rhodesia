@@ -1,5 +1,5 @@
 [
-"TFAR_anprc148jem",
+"TFAR_anprc152",
 //HELMETS
 "SP_Beret2_Grey",
 

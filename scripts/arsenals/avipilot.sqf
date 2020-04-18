@@ -17,7 +17,7 @@
 "UNS_M1956_P1",
 "RSF_BodyArmor",
 "B_Parachute",
-"TFAR_anprc148jem",
+"TFAR_anprc152",
 
 //Pistols
 "ARMSCor_Micro_UZI",
